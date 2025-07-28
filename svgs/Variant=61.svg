@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_757)">
+<mask id="mask0_2_757" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+<path d="M200 0H0V200H200V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2_757)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M117.333 100L200 183H5.45799e-05L82.6668 100L2.28882e-05 17H200L117.333 100Z" fill="url(#paint0_linear_2_757)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_757" x1="100" y1="17" x2="100" y2="183" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A7B5FF"/>
+<stop offset="1" stop-color="#F3ACFF"/>
+</linearGradient>
+<clipPath id="clip0_2_757">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
